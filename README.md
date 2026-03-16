@@ -60,10 +60,3 @@ This project uses a `.gitignore` specifically tuned for .NET.
 * `appsettings.Development.json` is ignored to prevent accidental credential leaks.
 * Use `dotnet user-secrets` for local sensitive data.
 
-
-
-
-
-**Would you like me to add a section on how to handle POST requests with JSON bodies so the documentation is complete?**
-
-```
