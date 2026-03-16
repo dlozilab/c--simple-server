@@ -22,15 +22,15 @@ A lightweight, high-performance web server built with C# and .NET 10. Designed f
 
 2. **Restore dependencies**
 *Unlike npm install, this happens automatically on build, but you can run it manually:*
-```bash
-dotnet restore
-
+   ```bash
+   dotnet restore
+   
 ```
 
 
 3. **Run the server**
-```bash
-dotnet run
+   ```bash
+   dotnet run
 
 ```
 
