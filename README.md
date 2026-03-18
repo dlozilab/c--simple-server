@@ -47,5 +47,5 @@ This project uses a `.gitignore` specifically tuned for .NET.
 - `bin/` and `obj/` are ignored.
 - `appsettings.Development.json` is ignored to prevent accidental credential leaks.
 - Use `dotnet user-secrets` for local sensitive data.
-```
+
 
