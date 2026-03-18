@@ -1,10 +1,4 @@
-Got you. Let's turn that README from a "school project" vibe into a "legit open-source tool" vibe. Since you're coming from Node, we'll keep the instructions punchy and developer-friendly.
 
-I've structured this to highlight the **Minimal API** style so people know it’s not the old, bloated C#.
-
----
-
-### Updated `README.md`
 
 ```markdown
 <img src="https://socialify.git.ci/dlozilab/c--simple-server/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="c--simple-server" width="640" height="320" />
