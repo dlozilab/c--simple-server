@@ -14,7 +14,7 @@ A lightweight, high-performance web server built with C# and .NET 10. Designed f
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/c--simple-server.git
+   git clone https://github.com/dlozilab/c--simple-server.git
    cd c--simple-server
    ```
 
