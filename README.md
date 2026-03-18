@@ -52,10 +52,3 @@ This project uses a `.gitignore` specifically tuned for .NET.
 - Use `dotnet user-secrets` for local sensitive data.
 ```
 
----
-
-### A few tips for your README:
-* **The Socialify Image:** It looks great! It automatically pulls your stars and info from GitHub, so as your repo grows, that image stays updated.
-* **The "Why":** Mentioning "Minimal API" is a dog-whistle for other Node/Python devs—it lets them know they don't have to learn 500 pages of Microsoft documentation just to map a URL.
-
-**Would you like me to add a section on how to handle POST requests with JSON bodies so the documentation is complete?**
